@@ -1,0 +1,1 @@
+console.log("Rolou a execução do script");
